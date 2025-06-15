@@ -54,3 +54,11 @@ Go to src directory to access the main python file and run it from there:
 
     cd src
     python todo-test.py
+
+### Output
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/d2a227e0-cf0d-419e-9a40-2b54259148ef" />
+ Image representing output of the application
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/7d6ea355-54ab-4892-8423-dfebdc6da094" />
+ Adding task to list and display of suggestions
+
