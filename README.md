@@ -14,7 +14,7 @@ A to-do list which runs on local/edge to provide real-time suggestions to the ta
 - AnythingLLM Chat Model: Llama 3.2 3B Chat 8K
 
 ### Setup
-1. Install and setup [AnythingLLM](https://anythingllm.com/).
+1. Install and setup ARM based [AnythingLLM](https://anythingllm.com/).
     1. Choose Qualcomm QNN when prompted to choose an LLM provider to target the NPU
     2. Choose a model of your choice when prompted. This sample uses Llama 3.2 3B Chat with 8K context
 2. Create a workspace by clicking "+ New Workspace"
