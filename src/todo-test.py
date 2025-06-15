@@ -39,8 +39,8 @@ class SmartTodoApp:
         
         # Create a more explicit prompt for the LLM
         prompt = f"""
-        I need 3 specific and practical follow-up tasks related to this task: '{task}'.
-        Please format your response as a simple list of 3 suggestions which follow-up to the task and useful for a to-do list.
+        Need 3 specific and practical follow-up tasks related to this task: '{task}'.
+        Format your response as a simple list of 3 suggestions which follow-up to the task in 1 phrase (short) like to-do list.
         For example:
         1. First follow-up related to the task
         2. Second follow-up related to the task
